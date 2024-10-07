@@ -1,5 +1,0 @@
-/Users/maksimstepanov/UnityProjects/ViewsSwitcher/.utmp/RelWithDebInfo/4y6y1u52/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/maksimstepanov/UnityProjects/ViewsSwitcher/.utmp/RelWithDebInfo/4y6y1u52/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/Users/maksimstepanov/UnityProjects/ViewsSwitcher/.utmp/RelWithDebInfo/4y6y1u52/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
-/Users/maksimstepanov/UnityProjects/ViewsSwitcher/.utmp/RelWithDebInfo/4y6y1u52/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
-/Users/maksimstepanov/UnityProjects/ViewsSwitcher/.utmp/RelWithDebInfo/4y6y1u52/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
